@@ -1,1 +1,1 @@
-# Metaheuristics
+# Inteligencja obliczeniowa
